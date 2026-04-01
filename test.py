@@ -1,2 +1,2 @@
 print("hello world")
-print("김명철")
+print("채나무")
